@@ -1,0 +1,30 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ChatGPT" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/light_color_primary</item>
+        <item name="colorPrimaryVariant">@color/light_color_primary_variant</item>
+        <item name="colorOnPrimary">@color/light_color_primary</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/light_color_secondary</item>
+        <item name="colorSecondaryVariant">@color/light_color_secondary_variant</item>
+        <item name="colorOnSecondary">@color/light_background</item>
+        <!-- Surface brand color. -->
+        <item name="colorSurface">@color/light_color_surface</item>
+        <item name="colorSurfaceVariant">@color/light_color_surface_variant</item>
+        <item name="colorOnSurface">@color/light_color_on_surface</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">@color/light_background</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <item name="android:navigationBarColor">@color/light_background</item>
+        <!-- Customize your theme here. -->
+        <!--        <item name="fontFamily">@font/regular</item>-->
+        <item name="colorAccent">@color/accent</item>
+        <item name="backgroundColor">@color/light_background</item>
+        <item name="android:textColorPrimary">@color/light_text_color_primary</item>
+        <item name="android:textColorSecondary">@color/light_text_color_secondary</item>
+        <item name="android:textColorHint">@color/light_text_color_hint</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+</resources>

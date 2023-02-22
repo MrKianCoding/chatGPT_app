@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#151515</color>
+    <color name="disabled_text">#c9e9fd</color>
+    <color name="disabled_color">#A3A3A3</color>
+    <color name="accent">#0995f6</color>
+    <color name="accent_light">#b2dffc</color>
+    <color name="accent_click">#097ECF</color>
+    <color name="green">#33BA87</color>
+    <color name="red">#EA5B5F</color>
+
+    <!-- dark -->
+    <color name="dark_background">#232323</color>
+    <color name="dark_color_primary">#FFFFFF</color>
+    <color name="dark_color_primary_variant">#b2dffc</color>
+    <color name="dark_color_secondary">#989898</color>
+    <color name="dark_color_secondary_variant">#C1C1C1</color>
+    <color name="dark_color_surface">#313131</color>
+    <color name="dark_color_surface_variant">#5A5A5A</color>
+    <color name="dark_color_on_surface">#4C4C4C</color>
+    <color name="dark_text_color_primary">#FFFFFF</color>
+    <color name="dark_text_color_secondary">#989898</color>
+    <color name="dark_text_color_hint">#5E5E5E</color>
+
+    <!-- light -->
+    <color name="light_background">#FFFFFF</color>
+    <color name="light_color_primary">#333333</color>
+    <color name="light_color_primary_variant">#01376b</color>
+    <color name="light_color_secondary">#A8A8A8</color>
+    <color name="light_color_secondary_variant">#959595</color>
+    <color name="light_color_surface">#fafafa</color>
+    <color name="light_color_surface_variant">#B6B6B6</color>
+    <color name="light_color_on_surface">#dbdbdb</color>
+    <color name="light_text_color_primary">#393939</color>
+    <color name="light_text_color_secondary">#919191</color>
+    <color name="light_text_color_hint">#AAAAAA</color>
+</resources>
